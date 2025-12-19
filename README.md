@@ -4,7 +4,7 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/BrightBeatsChallenge_MATLABSimulation)
 
-This repository includes the student activity files and instructor guide for the MATLAB® activity accompanying the TryEngineering Bright Beats Challenge (add link when TryEngineering webpage is published).
+This repository includes the student activity files and instructor guide for the MATLAB® activity accompanying the TryEngineering Bright Beats Challenge.
 
 In this activity, you'll be turning brightness values extracted from a digital image into piano sounds! Earlier, as part of the TryEngineering Bright Beast Design Challenge, you used a micro:bit to create a digital synthesizer that could transform ambient light levels and simple images into musical notes. The device you built empowered users to "hear" light as sounds, a tool that could be especially useful for those who are visually impaired. In this MATLAB activity, you will turn pixels from digital images into piano notes. In the process, you'll uncover the power of computers and programs like MATLAB for transforming visual and audio signals through signal processing and learn how images are represented by computers. Building upon the micro:bit activity with the power of MATLAB, you'll be able to customize the sounds further and translate more complex images into sounds.
 
