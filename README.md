@@ -11,7 +11,7 @@ In this activity, you'll be turning brightness values extracted from a digital i
 ## Set-up
 **Required MathWorks® Products (https://www.mathworks.com)**
 
-Requires MATLAB release R2025b or newer
+This was created with MATLAB release R2025b
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 **Other Materials**
