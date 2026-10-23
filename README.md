@@ -24,6 +24,7 @@ This was created with MATLAB release R2025b
 1. Complete the TryEngineering Bright Beats Design Challenge. 
 2. Open this repository in MATLAB Online, or clone and download this repository to your local machine and open in MATLAB.
 3. Open the "BrightBeatsChallenge_Student.mlx" Live Script to follow the step by step instructions.
+4. _Optional_: Try the extension [Color Beats Challenge](https://www.mathworks.com/matlabcentral/fileexchange/185036-color-beats-challenge), where you'll flip the process and instead turn sounds into colors!
 
 ## License
 
